@@ -5,7 +5,7 @@
     },
     {
         "color": "#2c3e50",
-        "name": "Vue",
+        "name": "React",
         "tip": "在学了在学了..."
     },
     {
@@ -22,11 +22,6 @@
         "color": "#3f51b5",
         "name": "MDUI",
         "tip": "Material Design User Interface"
-    },
-    {
-        "color": "#212121",
-        "name": "MDL",
-        "tip": "接触 MDUI 之前都在用这个"
     },
     {
         "color": "#3572A5",
