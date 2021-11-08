@@ -2,32 +2,32 @@
         "text": "Home",
         "data": null,
         "icon": "gesture",
-        "link": "https://fsky7.com/",
+        "link": "https://imgb.space/",
         "color": "blue"
     },
     {
         "text": "Blog",
         "data": null,
         "icon": "earth",
-        "link": "https://blog.fsky7.com/",
+        "link": "https://blog.imgb.space/",
         "color": "green"
     },
     {
         "text": "Laboratory",
         "data": null,
         "icon": "hammer-wrench",
-        "link": "https://lab.fsky7.com/",
+        "link": "https://lab.imgb.space/",
         "color": "deep-orange"
     },
     {
         "text": "Projects",
         "data": [{
                 "href": "https://github.com/FlyingSky-CN/MDr",
-                "text": "Typecho theme | MDr"
+                "text": "Typecho theme | 0cean"
             },
             {
                 "href": "https://github.com/FlyingSky-CN/initial-fly",
-                "text": "Typecho theme | initial-fly"
+                "text": "GB's Api"
             },
             {
                 "href": "https://paperclip.wiki",
