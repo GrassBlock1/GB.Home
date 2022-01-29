@@ -22,32 +22,12 @@
     {
         "text": "Projects",
         "data": [{
-                "href": "https://github.com/FlyingSky-CN/MDr",
+                "href": "https://github.com/Grassblock1/0cean",
                 "text": "Typecho theme | 0cean"
             },
             {
-                "href": "https://github.com/FlyingSky-CN/initial-fly",
+                "href": "https://api.imgb.space",
                 "text": "GB's Api"
-            },
-            {
-                "href": "https://paperclip.wiki",
-                "text": "回形针 PaperClip Fans"
-            },
-            {
-                "href": "https://space.bilibili.com/32792271/channel/detail?cid=170055",
-                "text": "BiliOB 用户排名观察"
-            },
-            {
-                "href": "https://for1833.fsky7.com",
-                "text": "For 1833 - 框女"
-            },
-            {
-                "href": "https://space.bilibili.com/32792271/channel/detail?cid=170056",
-                "text": "逐星原 / Minecraft"
-            },
-            {
-                "href": "https://fsky7.com",
-                "text": "FlyingSky's Website"
             }
         ],
         "icon": "package-variant-closed",

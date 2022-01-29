@@ -2,7 +2,7 @@
     <v-card class="pt-4" :dark="dark" elevation="0" style="background: none;">
         <v-list-item>
             <v-list-item-content>
-                <v-list-item-title class="headline">赞助我</v-list-item-title>
+                <v-list-item-title class="headline">投食</v-list-item-title>
                 <v-list-item-subtitle>Donate</v-list-item-subtitle>
             </v-list-item-content>
         </v-list-item>
@@ -15,7 +15,7 @@
                 class="ma-2"
                 elevation="0"
                 style="background: linear-gradient(90deg, #946ce6, #7e5fd9); color: white"
-                href="https://afdian.net/@flyingsky"
+                href="https://afdian.net/@Grass_Block"
             >爱发电 / Afdian</v-btn>
         </v-card-actions>
     </v-card>

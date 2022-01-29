@@ -1,26 +1,18 @@
 [{
         "icon": "account-circle-outline",
-        "text": "INFP"
-    },
-    {
-        "icon": "chart-timeline-variant",
-        "text": "拾光者"
+        "text": "INFJ-A"
     },
     {
         "icon": "all-inclusive",
-        "text": "白夜梦想家"
+        "text": "白日梦想家"
     },
     {
-        "icon": "thought-bubble-outline",
-        "text": "JK & DK"
+        "icon": "beaker",
+        "text": "折腾"
     },
     {
-        "icon": "atom",
-        "text": "解谜玩家"
-    },
-    {
-        "icon": "judaism",
-        "text": "Ingress Res Agent"
+        "icon": "cube-outline",
+        "text": "Minecrafter"
     },
     {
         "icon": "code-tags",
@@ -33,6 +25,10 @@
     {
         "icon": "code-braces",
         "text": "Vue"
+    },
+    {
+        "icon": "code-braces",
+        "text": "React"
     },
     {
         "icon": "code-braces",

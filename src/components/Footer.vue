@@ -1,9 +1,9 @@
 <template>
     <div class="my-12 px-4 text-caption" style="opacity: .75">
-        <b>FlyingSky's Website</b>
-        <br />Created by FlyingSky with ♥ since 2017.
+        <b>home @ GB</b>
+        <br />Created by FlyingSky with ♥ since 2017, Modified by Grass_Block.
         <br />
-        <br />&copy; 2017-2021 FlyingSky.
+        <br />&copy; 2017-2022 Grassblock.
         <v-dialog v-model="dialog" max-width="768px" :dark="dark">
             <template v-slot:activator="{ on, attrs }">
                 <a v-bind="attrs" v-on="on">
